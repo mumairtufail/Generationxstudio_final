@@ -1,0 +1,71 @@
+
+
+/*maps*/
+
+.maps{
+	width: 100%;
+	
+}
+
+
+.headingloc{
+	text-align: center;
+	margin-top: 100px;
+	font-size: 40pt;
+}
+.textloc{
+	margin-top: 100px;
+	width: 26%;
+	
+	font-size: 20pt;
+	float: left;
+
+}
+
+.loc{
+	float: left;
+	margin-top: 100 px;
+	width:50%;
+	margin-left: 70px;
+	
+}
+
+.container2{
+	margin-top: 100px;
+	background-color: #0096c7;
+	
+}
+
+.pagination{
+	margin-right: 1000px;
+	text-align: center;
+	background-color: #0096c7;
+	width: 220px;
+	
+}
+.pg{
+	padding: 3px;
+
+	margin-left: 20px;
+	text-decoration:none;
+	border: 2px;
+	
+	font-size: 20pt;
+	
+
+}
+
+.pg :hover{
+	background-color: #fff;
+	color: #000;
+	transition: 0.6s ease;
+	border-radius: 40px; 
+	padding: 4px;
+}
+
+.pg a{
+	text-decoration: none;
+	border: 2px;
+	color: #fff;
+	
+}
